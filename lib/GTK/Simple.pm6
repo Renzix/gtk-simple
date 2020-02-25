@@ -16,6 +16,7 @@ need GTK::Simple::MarkUpLabel;
 need GTK::Simple::Scale;
 need GTK::Simple::Entry;
 need GTK::Simple::TextView;
+need GTK::Simple::SourceView;
 need GTK::Simple::Button;
 need GTK::Simple::ToggleButton;
 need GTK::Simple::CheckButton;
